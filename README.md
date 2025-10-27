@@ -59,9 +59,12 @@ lib/
    ```bash
    git clone https://github.com/yourusername/flutter_ui_components.git
 2. Navigate to the project folder
-         cd flutter_ui_components
-3. Install dependencies
+```bash
+   cd flutter_ui_components
+4. Install dependencies
+```bash
      flutter pub get
-4. Run the app
+5. Run the app
+```bash
         flutter run
 
